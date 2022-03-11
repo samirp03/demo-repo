@@ -1,3 +1,3 @@
 # Demo
 
-Some rendom practicing.
+Some random practicing.
